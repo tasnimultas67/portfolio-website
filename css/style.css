@@ -115,6 +115,22 @@ body{
             border: 1px solid #F39C12;
             border-radius: 6px;
         }
+        .header-btn2{
+            width: 250px;
+            padding: 10px 20px;
+            margin: 20px 5px 10px 0px;
+            background-color: transparent;
+            font-weight:bolder;
+            text-decoration: none;
+            cursor: pointer;
+            font-size: 17px;
+            color: black;
+            border-radius: 6px;
+        }
+        .header-btn2:hover{
+            transition: all 0.4s;
+            color: #651FFF;
+        }
         .header-btn:hover{
             transition: all 0.4s;
             background-color: #F39C12;
